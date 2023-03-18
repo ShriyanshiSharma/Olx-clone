@@ -1,0 +1,15 @@
+.rec{
+    padding-left: 20px;
+    padding-left: 20px;
+}
+.fresh{
+    padding-left: 35px;
+    padding-top: 20px;
+}
+.content{
+    padding: 1% 2% 0px 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    align-items: center;
+}

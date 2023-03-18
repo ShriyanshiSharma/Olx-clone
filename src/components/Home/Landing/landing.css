@@ -1,0 +1,39 @@
+.top{
+    width: 100%;
+    align-items:last baseline;
+    display: flex;
+    height: 110px;
+    position: sticky; 
+    padding-top: 10px;
+    background-color: white;
+    z-index: -1;
+}
+.drop-down{
+    padding: 0px 20px;
+
+}
+.drop-down select{
+    font-weight: 700;
+    font-size: 14px;
+    padding-left: 5px;
+    /* padding: 0px 5px; */
+
+}
+.drop-down option{
+    font-weight: 600;
+}
+
+.catego{
+    width: 150px;
+    border: none;
+}
+.tag{
+    list-style: none;
+    display: flex;
+}  
+
+.link{
+    padding: 0px 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
