@@ -1,6 +1,7 @@
 import car1 from '../../../assets/car1.jpg'
 import {Link} from 'react-router-dom'
 
+
 import './card.css'
 
 const Card = (props) => {
