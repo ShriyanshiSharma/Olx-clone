@@ -38,7 +38,7 @@ const Navbar = () => {
         </div>
 
         <div className='search'>
-            <input type="text" placeholder='     Find Cars,MObile Phones and more...'/>
+            <input type="text" placeholder='     Find Cars,Mobile Phones and more...'/>
             <div className='icon'>
 
                 <img src={search} alt='' width="20px"/>
